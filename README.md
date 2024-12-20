@@ -1,8 +1,8 @@
-# 📛 Poke React Random
+# Poke React Random
 
 Un'applicazione **React** che mostra un **Pokémon casuale** ogni volta che premi un pulsante. I dettagli del Pokémon (nome, immagine e tipo) vengono recuperati dalla **PokeAPI**.
 
-## 🚀 Funzionalità
+## ⚙️ Funzionalità
 - Mostra un Pokémon casuale premendo un pulsante
 - Dati recuperati da [PokeAPI](https://pokeapi.co/)
 - Chiamate API con Axios
@@ -42,12 +42,5 @@ Un'applicazione **React** che mostra un **Pokémon casuale** ogni volta che prem
 - **Axios**
 - **PokeAPI**
 
-## 📜 Script disponibili
-- `npm run dev`: Avvia l'applicazione
-- `npm run build`: Crea una build di produzione
-
-## 🚀 Come funziona
-1. Premi il pulsante "Mostra Pokémon"
-2. Viene mostrato un Pokémon casuale con nome, immagine e tipo
 
 
